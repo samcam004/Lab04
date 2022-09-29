@@ -3,6 +3,6 @@ public class Hello {
     for(int i=1; i<=5; i++) {
       System.out.println("Hello World..."+i);
     }
-    system.out.println("Goodbye!")
+    system.out.println("Goodbye!");
   }
 }
